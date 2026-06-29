@@ -1,6 +1,21 @@
 # 💫 About Me:
-Building projects and sharpening my skills in Data Analysis, exploring real-world datasets to extract insights and create impactful visualizations.<br><br>Open-source projects or initiatives related to data analytics, Python, and visualization, where I can contribute meaningfully and learn from others.<br><br>Improving my knowledge of advanced data analysis techniques, machine learning basics, and best practices for structuring projects on GitHub.<br><br>Data Analytics, Python libraries (like Pandas, NumPy, Matplotlib, Seaborn), and SQL for data querying.<br><br>My approach to cleaning messy datasets, building dashboards, or tips on starting data projects from scratch.<br><br>I love turning raw numbers into stories that speak—and sometimes I challenge myself to analyze a dataset in just one day for fun!
+I build intelligent systems that actually work in the real world.
 
+I'm an AI/ML Engineer and Python Developer with a focus on three things:
+
+🤖 Machine Learning & AI — training models, building classification/prediction pipelines, and turning raw data into decisions
+
+⚙️ AI Automation & Agents — designing intelligent workflows using n8n and custom AI Agents that help businesses eliminate repetitive work and scale faster
+
+🐍 Python Development — clean, production-ready backends using Django and FastAPI, powered by Pandas, NumPy, and scikit-learn
+
+I've shipped real projects — from flower classification models to full AI automation systems for clients — and I'm always pushing toward the next hard problem.
+
+If you're building something at the intersection of AI and software, let's talk.
+
+🔧 Python | FastAPI | Pandas | NumPy | scikit-learn | TensorFlow | PyTorch | AI Agents | n8n | ML Pipelines
+
+📩 Open to full-time roles, remote contracts, and collaborations.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AzlanRajpoot) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aziii08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MuhammadAzlan) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@azlan190879642) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@MuhammadAzlan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azlanfaisal1908@gmail.com) 
